@@ -75,7 +75,112 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Release Manager
+
+### Role Summary
+Release Managers oversee the release lifecycle. They coordinate the planning, scheduling, communication, and technical logistics required to safely and predictably deploy new features into production.
+
+### Responsibilities
+- Maintain release plans and schedules
+- Coordinate cross-team release logistics and checklists
+- Own communication of release timing, risks, and status to stakeholders/support
+- Manage rollback and incident playbooks
+
+### Goals
+- Safe, predictable releases
+- Minimize risk and downtime
+- Transparency of release status
+
+### Typical Communication
+- Release briefings and status updates
+- Release checklist signoffs in planning/execution docs
+- Deployment notifications to support and customer-facing teams
+
+#### Release Manager Checklist
+- [ ] All acceptance criteria and tests have passed
+- [ ] Release notes and communications drafted
+- [ ] Rollback plan verified
+- [ ] Stakeholders/support notified of release schedule
+
+---
+
+## QA Lead
+
+### Role Summary
+QA Leads own the testing strategy and its execution. They ensure new features and fixes meet documented acceptance criteria and quality standards.
+
+### Responsibilities
+- Define and document QA strategies and acceptance criteria
+- Plan, coordinate, and validate manual/automated test phases
+- Oversee bug triage and regression cycles
+- Sign off on feature readiness for release
+
+### Goals
+- Prevent regressions/defects from reaching production
+- Reduce time for product validation
+
+### Typical Communication
+- Test coverage and results reporting in execution and release docs
+- Risk/escalation feedback in planning and standups
+
+#### QA Lead Checklist
+- [ ] Test plan and coverage goals documented
+- [ ] Regression/acceptance tests executed
+- [ ] Defects triaged/resolved
+- [ ] QA signoff before release
+
+---
+
+## UX Designer
+
+### Role Summary
+UX Designers lead product usability/flow improvements, translate business/user needs, and gather feedback as features progress.
+
+### Responsibilities
+- Produce design specs/user flows, advocate for accessibility
+- Review features for consistency and polish
+- Gather and synthesize user feedback
+
+### Goals
+- Deliver intuitive, user-friendly experiences
+- Incorporate feedback early in process
+
+### Typical Communication
+- Design reviews, planning sessions
+- Feature/user feedback meetings
+
+#### UX Designer Checklist
+- [ ] Designs/specs delivered for planned features
+- [ ] Usability testing conducted if needed
+- [ ] Feedback incorporated in UI/UX patterns
+
+---
+
+## Support Engineer
+
+### Role Summary
+Support Engineers coordinate production support handoff and close the loop on live issues and user feedback for new releases.
+
+### Responsibilities
+- Prepare support docs, FAQs, and runbooks for new releases
+- Triage production issues/incidents, drive resolution
+- Convey user pain points into planning/retrospectives
+
+### Goals
+- Fast, effective post-release support
+- Close gap between dev and support
+
+### Typical Communication
+- Handoff meetings pre/post release
+- Incident reports, root cause analysis
+
+#### Support Engineer Checklist
+- [ ] Support docs/runbooks updated for releases
+- [ ] Incident response plan ready
+- [ ] Support feedback looped into retrospectives
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
