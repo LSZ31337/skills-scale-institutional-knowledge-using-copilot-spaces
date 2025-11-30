@@ -22,6 +22,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Lead coordinates the test strategy**
+- **Release Manager signs off release logistics**
+- **Support Engineer prepares handoff materials**
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -32,9 +35,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- **Release/support blockers escalated to Release Manager and Support Engineer as required**
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Release Manager has coordinated/signed off on release window and checklist
+- [ ] QA Lead has completed acceptance and regression testing before release
+- [ ] Support Engineer has reviewed support docs/runbooks for upcoming changes

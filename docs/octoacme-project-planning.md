@@ -10,10 +10,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
+    - **Include Release Manager, QA Lead, UX Designer, and Support Engineer for discussion/review**
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
+    - **Note handoffs/reviews by new roles**
 6. Create release plan and milestone map
 
 ## Backlog Item Template
@@ -41,3 +43,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Cross-role handoff points planned (Release, QA, Support, UX)

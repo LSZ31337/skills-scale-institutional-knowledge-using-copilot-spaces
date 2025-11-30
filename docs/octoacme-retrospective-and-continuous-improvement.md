@@ -15,10 +15,12 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
+- **Invite Release Manager, QA Lead, Support Engineer, and UX Designer to share process gaps, cross-team handoff issues, and pain points.**
 - Prioritize 2–3 top action items to avoid overload
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
+- **Assign owners from all relevant roles—not just PM/PdM/Dev—to ensure accountability and broad process coverage.**
 - Review outstanding actions in the weekly PM sync
 
 ## Example Action Item Template

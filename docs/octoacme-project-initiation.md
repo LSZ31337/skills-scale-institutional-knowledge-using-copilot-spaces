@@ -15,6 +15,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
+    - **Explicitly include Release Manager, QA Lead, UX Designer, and Support Engineer for large/complex projects**
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
@@ -32,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] For large/complex: roles like Release Manager, QA Lead, UX/Support identified
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
